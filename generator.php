@@ -294,7 +294,7 @@ for ($i = 0; $i < $___; $i++) {
 		<meta name="robots" content="NOINDEX, NOFOLLOW">
 
 		<title>./Kingworld</title>
-		<link rel="icon" href="https://i.ibb.co/sFKn016/image-removebg-preview-20.png">
+		<link rel="icon" href="https://png.pngtree.com/png-clipart/20231007/original/pngtree-skull-green-glossy-icon-on-white-background-skull-icon-photo-png-image_13280855.png">
 
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	</head>
@@ -363,7 +363,7 @@ for ($i = 0; $i < $___; $i++) {
 				<br />
 
 				<a class="navbar-brand" href="#">
-					<img src="https://i.ibb.co/sFKn016/image-removebg-preview-20.png" width="25" height="25" class="d-inline-block align-top auto" alt="Ainz Moe">
+					<img src="https://png.pngtree.com/png-clipart/20231007/original/pngtree-skull-green-glossy-icon-on-white-background-skull-icon-photo-png-image_13280855.png" width="25" height="25" class="d-inline-block align-top auto" alt="Ainz Moe">
 				</a>
 
 
@@ -418,7 +418,7 @@ for ($i = 0; $i < $___; $i++) {
 					</ul>
 				</div>
 				<a class="navbar-brand" href="#">
-					<img src="https://i.ibb.co/sFKn016/image-removebg-preview-20.png" width="25" height="25" class="d-inline-block align-top auto" alt="Ainz Moe">
+					<img src="https://png.pngtree.com/png-clipart/20231007/original/pngtree-skull-green-glossy-icon-on-white-background-skull-icon-photo-png-image_13280855.png" width="25" height="25" class="d-inline-block align-top auto" alt="Ainz Moe">
 				</a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -4172,7 +4172,7 @@ Author  : ./Kingworld
 																																						$j .= '<tr class="r">
 							<td>
 							
-								<img src = "https://i.ibb.co/sFKn016/image-removebg-preview-20.png" width = "20px" height = "20px">
+								<img src = "https://png.pngtree.com/png-clipart/20231007/original/pngtree-skull-green-glossy-icon-on-white-background-skull-icon-photo-png-image_13280855.png" width = "20px" height = "20px">
 								<a class="ajx" href="?d=' . hex($e) . '&s=' . hex($c) . '">' . $c . '</a>
 								
 							</td>
